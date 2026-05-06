@@ -1,1 +1,1 @@
-Put both file in a single folder and run app.java
+Put both files in a single folder and run app.java
